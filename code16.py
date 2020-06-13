@@ -1,4 +1,3 @@
-# -*- coding: UTF-8 -*-
 import requests, json, fbchat, time
 
 class Code16(fbchat.Client):
